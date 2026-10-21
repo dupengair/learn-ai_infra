@@ -1,0 +1,9 @@
+# 上游书仓本地克隆（github.com/bojieli/ai-infra-book），仅作本地学习参考，不纳入版本管理
+ai-infra-book/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 编辑器与系统文件
+.DS_Store
